@@ -6,13 +6,13 @@ First, install Python 3.8.7 on your system. Check your Python version by using t
 
 Set up a new virtual environment named “cf-python-base”.
 
-![Step 2](../Exercise 1.1/step2.png)
+![Step 2](./step2.png)
 
 ## Create a Python Script
 
 Install Visual Studio Code or another text editor of your choice and create a Python script named “add.py”. This script will take two numbers from the user input, add them, and print the result. Here's the template for your Python script:
 
-![Step 3](../Exercise 1.1/step3.png)
+![Step 3](./step3.png)
 
 ```python
 # Prompt the user to enter the first number
@@ -32,7 +32,7 @@ print("The sum of", a, "and", b, "is:", c)
 
 Set up an IPython shell in the virtual environment "cf-python-base". An IPython shell is similar to the regular Python REPL with additional features like syntax highlighting, auto-indentation, and robust auto-complete features. Install it using pip.
 
-![Step 4](../Exercise 1.1/step4.png)
+![Step 4](./step4.png)
 
 ## Export a Requirements File
 

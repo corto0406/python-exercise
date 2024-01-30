@@ -6,7 +6,7 @@ First, install Python 3.8.7 on your system. Check your Python version by using t
 
 Set up a new virtual environment named “cf-python-base”.
 
-![Step 2](./Exercise 1.1/step2.png)
+![Step 2](.python-exercise/Exercise 1.1/step2.png)
 
 ## Create a Python Script
 

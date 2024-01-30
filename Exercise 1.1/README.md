@@ -38,4 +38,4 @@ Set up an IPython shell in the virtual environment "cf-python-base". An IPython 
 
 Generate a “requirements.txt” file from your source environment. Next, create a new environment called “cf-python-copy”. In this new environment, install packages from the “requirements.txt” file.
 
-![Step 5](../Exercise 1.1/step5.png)
+![Step 5](./step5.png)

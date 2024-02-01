@@ -5,13 +5,13 @@ Considering the need for sequential storage of multiple recipes, I have chosen a
 
 
 First task
-(./step6.png)
+![Step 6](./step6.png)
 
 Second task
-(./step7.png)
+![Step 7](./step7.png)
 
 Third task
-(./step8.png)
+![Step 8](./step8.png)
 
 Fourth task
-(./step9.png)
+![Step 9](./step9.png)

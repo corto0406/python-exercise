@@ -1,0 +1,27 @@
+Exercise 1.5: Object-Oriented Programming in Python
+Learning Goals
+
+●	Apply object-oriented programming concepts to your Recipe app
+
+Reflection Questions
+
+1.	In your own words, what is object-oriented programming? What are the benefits of OOP?
+    a.	Object-Oriented Programming (OOP) in Python involves using classes as blueprints to create objects, each representing distinct entities with specific attributes and behaviors. OOP streamlines complex software development by organizing code into modular, reusable, and easily maintainable components.
+
+2.	What are objects and classes in Python? Come up with a real-world example to illustrate how objects and classes work.
+    a.	A class is like a blueprint for creating objects. Objects are instances of these blueprints, embodying specific characteristics and behaviors defined in their class.
+
+    b.	If we use the example of a car, we can think of a class as the blueprint for the car. It defines properties like the number of wheels, color, and engine type. It also has behaviors like accelerating or stopping. An object would be a specific car, say a 4Runner. It has specific properties (four wheels, color: Red, 4liter engine) and can perform certain actions (accelerating to 60 mph in 4 seconds). Every car built from this blueprint is an object, each with its own specific characteristics but sharing the common structure and behaviors of the car class.
+
+3.	In your own words, write brief explanations of the following OOP concepts; 100 to 200 words per method is fine. 
+
+Method	Description
+
+Inheritance:
+    Inheritance is like a family tree, a class can inherit attributes and behaviors from the parent class. This allows new classes, called child classes, to take on existing code from other classes.
+
+Polymorphism:
+    	Polymorphism is about using a single interface to represent different underlying forms. It allows you use a shared method in different ways for different objects. You can use the method speak() in the class Animal, and for the Cat object speak could be ‘Meow’ and for the Dog, ‘Bark’. One method, multiple possible data types
+
+Operator Overloading:
+    	Operator overloading lets you define custom behaviors for standard operators like +, -, *, etc. in your objects

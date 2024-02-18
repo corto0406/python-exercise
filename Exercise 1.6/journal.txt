@@ -1,0 +1,41 @@
+1. What are databases and what are the advantages of using them?
+
+   - Databases are organized collections of structured data that are designed to efficiently store, manage,
+     and retrieve information. They serve as a central repository for data and are essential in various software
+     applications, from simple personal projects to large-scale enterprise systems. Databases are used to store
+     data in a way that enables easy access, retrieval, and management.
+
+2. List 3 data types that can be used in MySQL and describe them briefly:
+
+   - VARCHAR: VARCHAR is a data type used to store variable-length character strings, such as text or alphanumeric
+     data. It is commonly used for storing text-based data, such as names, descriptions, and other textual information.
+
+   - INT: INT is a commonly used data type that stands for "integer." It is used to store whole numbers (positive, negative,
+     or zero) and is one of the most fundamental data types for representing numerical data.
+
+   - DATE: DATE data type is used to store date values. It represents a date in the 'YYYY-MM-DD' format
+
+3. In what situations would SQLite be a better choice than MySQL?
+
+   - While both are database management systems, they do offer different services and features. SQLite is designed for single-user
+     applications where there is no need for concurrent access by multiple users. If your application is not expected to have many
+     concurrent connections, SQLite can be a more straightforward solution. SQLite is easy to set up and is a great choice for
+     prototyping and testing purposes. You can quickly create and manipulate a SQLite database without the need for a separate
+     database server. However, MySQL offers advanced features like stored procedures, triggers, and views that are not available
+     in SQLite. If you need complex database logic, MySQL is a better option. Also, MySQL offers advanced features like stored procedures,
+     triggers, and views that are not available in SQLite. If you need complex database logic, MySQL is a better option.
+
+4. Think back to what you learned in the Immersion course. What do you think about the differences between JavaScript and Python as programming languages?
+
+   - So far, I have to say that I enjoy coding with JavaScript more. Obviously it has to do with my experience in JavaScript versus Python,
+     but some of the logic I have used to approach a problem in Python doesn't seem to work as expected. I also am not a big fan of the
+     syntax. That being said, I am excited to keep working in Python to see if I can find the beauty in it.
+
+5. Now that you're nearly at the end of Achievement 1, consider what you know about Python so far. What would you say are the limitations
+   of Python as a programming language?
+
+   - As of right now I cannot pinpoint any limitations as it is too early to say. A simple Google search suggests browser compatibility, slow
+     performance as it is an interpreted language, and a limited ecosystem for front-end development. As we haven't touched base on any
+     of this, I cannot say from my own experience that I have ran into these issues. However, during Excercise 1.5, I was trying to implement
+     a private method in the Height class that would convert a height passed into it into inches which would then be used in the operator overloaded
+     methods, but I could not get it to work. That was pretty frustrating.

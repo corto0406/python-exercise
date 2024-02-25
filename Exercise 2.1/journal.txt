@@ -1,0 +1,31 @@
+1. Suppose you’re a web developer in a company and need to decide if you’ll use vanilla (plain)
+Python for a project, or a framework like Django instead. What are the advantages and drawbacks
+of each?
+Django is made to help developers create their apps fast with robust security and ease of scalability. It
+also comes loaded with a large library of tools and features you can use. Moreover, it provides developers
+its ‘Admin interface’ which an authorized person can easily manage contents of the page. This makes
+Django cost effective and efficient if used in large projects with short deadlines. Its disadvantages on the
+other hand are: Django has its own ways of performing tasks – Knows as “The Django way” – which further
+steepens its learning curve and it takes large portion of server processing and time for small projects & its
+strength is seen as the code grows.
+
+2. In your own words, what is the most significant advantage of Model View Template (MVT)
+architecture over Model View Controller (MVC) architecture?
+In MVC structure you have to write the control that stands in the middle of model (which interacts with
+the data base and fetches data per request) and view (which prepares the presentation of the page),
+coordinates both and send back HTTPS for every request received. On the other hand, in MVT structure
+the view stands in the middle of model (interacts with database and fetches data) and template (prepares
+presentation), coordinate them appropriately and send back a response URL. The advantage of MVT lies
+in that when request comes the view matches the URL with specific request and returns response, so here
+you don’t need to write code for the view part like you do for the controller part in MVC.
+
+3. Now that you’ve had an introduction to the Django framework, write down three goals you
+have for yourself and your learning process during this Achievement. You can reflect on the
+following questions if it helps:
+What do you want to learn about Django?
+What do you want to get out of this Achievement?
+Where or what do you see yourself working on after you complete this Achievement?
+By the end of this achievement I should be confident enough to work with different features and tools of
+Django and to increase my backend knowledge. I think if I can make applications with heavy traffic
+requests or large amount of data to manipulate and scale up or down apps made using Django, this
+achievement is a win for me.

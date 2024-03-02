@@ -1,0 +1,12 @@
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Database
+db.sqlite3
